@@ -1,1 +1,5 @@
 Hello, World!
+<<<<<<< HEAD
+=======
+I know Git
+>>>>>>> 16365fe (i'm so excited by git)
